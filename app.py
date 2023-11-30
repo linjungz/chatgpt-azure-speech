@@ -87,9 +87,6 @@ def record_voice():
         if cancellation_details.reason == speechsdk.CancellationReason.Error:
             print("Error details: {}".format(cancellation_details.error_details))
 
-# UI
-
-LOTTIE_URL = 'https://assets6.lottiefiles.com/packages/lf20_6e0qqtpa.json'
 
 # Function to load JSON from file
 def load_json_from_file(file_path):
