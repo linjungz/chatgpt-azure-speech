@@ -2,6 +2,10 @@
 
 This is a demonstration application that leverages the capabilities Azure Speech Service to enable users to talk with ChatGPT . This repository hosts the codebase, instructions, and resources needed to set up and run the application.
 
+https://github.com/linjungz/chatgpt-azure-speech/assets/35800534/e7e39248-47d4-47f0-9c0b-46488cfcaeb9
+
+
+
 ## Features
 
 - Use Azure Speech for ASR and TTS when talking with ChatGPT
