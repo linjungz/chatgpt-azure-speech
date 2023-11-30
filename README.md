@@ -65,3 +65,22 @@ For supported openai version, you could check this [link](https://learn.microsof
 ### Azure Speech
 Here's where you can find key and region:
 ![Alt text](./static/speech.png)
+
+## Run
+
+This will initialize the application based on `Streamlit` and open up the user interface in your default web browser.
+
+```bash
+$ streamlit run app.py --server.address '0.0.0.0'
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8501```
+```
+
+## Credits
+
+- Reference blog: https://vahidmirjalili.com/blog/posts/chatgpt-voice-assistant/
